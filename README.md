@@ -1,1 +1,3 @@
-# pyqtapp
+PYQTAPP
+
+Otwiera okno logowania
